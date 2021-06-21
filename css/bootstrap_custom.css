@@ -5715,6 +5715,9 @@ textarea.form-control-lg {
 
 .carousel {
   position: relative;
+  float: right;
+  margin-right: 20%;
+  margin-top: 5%;
 }
 
 .carousel.pointer-event {
@@ -5725,7 +5728,10 @@ textarea.form-control-lg {
   position: relative;
   width: 100%;
   overflow: hidden;
+  z-index: -1;
+
 }
+
 .carousel-inner::after {
   display: block;
   clear: both;
@@ -7382,7 +7388,7 @@ textarea.form-control-lg {
 }
 
 .bg-success {
-  background-color: #198754 !important;
+  background-color: rgb(126, 248, 4) !important;
 }
 
 .bg-info {
