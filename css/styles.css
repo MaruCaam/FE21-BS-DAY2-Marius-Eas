@@ -10,4 +10,13 @@
     margin-left: 10em;
   }
 }
+
+.carousel {
+  width: 50%;
+}
+
+.big-grid {
+  display: -ms-grid;
+  display: grid;
+}
 /*# sourceMappingURL=styles.css.map */

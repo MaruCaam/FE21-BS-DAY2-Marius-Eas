@@ -5715,9 +5715,9 @@ textarea.form-control-lg {
 
 .carousel {
   position: relative;
-  float: right;
-  margin-right: 20%;
-  margin-top: 5%;
+  width: 80%;
+  margin: 0 auto;
+  
 }
 
 .carousel.pointer-event {

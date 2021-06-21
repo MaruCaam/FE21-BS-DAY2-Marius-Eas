@@ -11,21 +11,3 @@ body {
     font-weight: bolder;
     text-shadow:1px rgb(126, 248, 4);
 }
-
-
-.carousel .item {
-    -webkit-transition: opacity 3s; 
-    -moz-transition: opacity 3s; 
-    -ms-transition: opacity 3s; 
-    -o-transition: opacity 3s; 
-    transition: opacity 3s;
-}
-.carousel .active.left {
-    left:0;
-    opacity:0;
-    z-index:2;
-}
-.carousel .next {
-    left:0;
-    opacity:1;
-}
