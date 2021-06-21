@@ -1,0 +1,18 @@
+@media screen and (max-width: 600px) {
+    body {
+      background-color: olive;
+    }
+
+    .carousel {
+        width: 50%;
+        margin-top: 8em;
+    }
+
+    .my-container {
+        margin-left: 10em;
+    }
+  }
+
+
+$carousel-transition-duration:       .01s;
+$carousel-transition:                transform $carousel-transition-duration ease-in-out; // Define transform transition first if using multiple transitions (e.g., `transform 2s ease, opacity .5s ease-out`)
