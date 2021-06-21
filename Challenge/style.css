@@ -1,0 +1,15 @@
+.main-wrapper{
+    display: block;
+    text-align: center;
+    margin-top: 15em;
+}
+
+body{
+    background-image: url("donaukanal.jpg");
+    background-size: cover;    
+    
+    
+}
+
+
+
