@@ -1,0 +1,18 @@
+.matrix-green {
+    color: #03A062;
+}
+
+body {
+    background-image: url(/img/matrix.gif);
+}
+
+.nav-item {
+    font-size: x-large;
+    font-weight: bolder;
+    text-shadow:1px 1px chartreuse;
+}
+
+
+header > a {
+    color: blue;
+}
